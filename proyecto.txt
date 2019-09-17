@@ -1,0 +1,24 @@
+Análisis del desempeño de las páginas web de películas piratas
+
+Proyecto: 
+Realizar un estudio sobre páginas web de películas piratas con el fin de determinar y analizar el desempeño que están posee al momento de subir contenido que se encuentran en estreno en los
+cines con fecha referencial de estados unidos. También se espera determinar, cual es las páginas que posee más interacción con sus espectadores, esto se medirá con comentarios y puntuación, 
+para determinar si esta tiene correlación con que sea una película recién estrenada.
+
+Objetivos:
+•	Determinar cuál es la página web que se demora menos en el tiempo en subir una película en estrenos, con fecha referencial de el estreno de estados unidos. 
+•	Determinar si existe correlación entre interacción a través de cometario o puntuación, y que sea una película de estreno.
+Motivación: 
+
+Como motivación principal es saber cual de las plataformas estudiadas son mas rápida en subir sus contenidos y saber cual es la que posee una comunidad más grande de espectadores.
+
+paginas a utilizar:
+
+www.cinecalidad.plus
+www.repelis.tv
+www.pelispedia.in
+
+integrantes del grupo:
+Nicole Vasquez
+Gabriel Gazali
+Alba Isla
